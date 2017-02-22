@@ -4,7 +4,9 @@ This is a android custom digital clock
 <h1 align="center">TextClock <img src="https://jitpack.io/v/dewinjm/TextClock.svg"></h1>
 <h4 align="center">Android Library</h4>
 <p align="center">Android Library that shows a customizable clock.</p>
-![TextClock](https://raw.githubusercontent.com/dewinjm/TextClock/master/art/clock_example.jpg)
+<p align="center">
+![TextClock](https://raw.githubusercontent.com/dewinjm/TextClock/master/art/clock_example.png)
+<p>
 
 ## How to include
 Add the repository to your project **build.gradle**:
