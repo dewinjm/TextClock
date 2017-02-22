@@ -16,17 +16,8 @@
   -->
 
 <resources>
-    <declare-styleable name="TextClock">
-        <!-- Specifies the formatting pattern used to show the time and/or date
-             in 24-hour mode. Please refer to {@link android.text.format.DateFormat}
-             for a complete description of accepted formatting patterns.
-             The default pattern is a locale-appropriate equivalent of "H:mm". -->
-        <attr name="format24Hour" format="boolean"/>
-
-        <!-- Show seconds into datetime  -->
-        <attr name="showSecond" format="boolean"/>
-
-        <!-- Text color for view. -->
-        <attr name="color" format="color"/>
-    </declare-styleable>
+    <color name="colorPrimary">#C6484C</color>
+    <color name="colorPrimaryDark">#B23E42</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="text">#FFFFFF</color>
 </resources>
