@@ -1,12 +1,17 @@
-# TextClock
-This is a android custom digital clock
-
-<h1 align="center">TextClock <img src="https://jitpack.io/v/dewinjm/TextClock.svg"></h1>
-<h4 align="center">Android Library</h4>
-<p align="center">Android Library that shows a customizable clock.</p>
+<h1 align="center">TextClock</h1> 
+<h4 align="center">Android Library</h4>	
 <p align="center">
-![TextClock](https://raw.githubusercontent.com/dewinjm/TextClock/master/art/clock_example.png)
-<p>
+<a target="_blank" href="https://android-arsenal.com/api?level=16">
+ <img src="https://jitpack.io/v/dewinjm/TextClock.svg">
+</a>
+<a target="_blank" href="https://android-arsenal.com/api?level=16"><img src="https://img.shields.io/badge/API-16%2B-blue.svg?style=flat">
+</a>
+</p>
+
+<p align="center">Android custom digital clock.</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/dewinjm/TextClock/master/art/clock_example.png">
+</p>
 
 ## How to include
 Add the repository to your project **build.gradle**:
